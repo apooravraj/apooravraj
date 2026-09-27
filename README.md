@@ -31,21 +31,19 @@ meaningful insights and building data-driven solutions.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ---
 
 ## 📌 Featured Projects
 
-### 📊 Google Play Store Apps Analysis
-Power BI dashboard analyzing app ratings, categories, reviews and key metrics.
+### 📊 Google Play Store App Analysis
+Data analysis project focused on exploring Google Play Store applications, ratings, reviews, categories, and other key metrics to identify trends and insights.
 
-### 💊 Medicine Recommendation System
-Machine Learning project that recommends medicines and precautions based on symptoms.
+### 🛒 Amazon Product Dissection
+Database design and analysis project based on the Amazon e-commerce platform, including SQL, database schema design, and ER diagrams.
 
-### 🌾 Crop Recommendation System
-ML-based application that recommends suitable crops using soil and environmental parameters.
+### 📱 Play Store Project
+Exploratory data analysis project using Python, Pandas, Matplotlib, and Seaborn to clean, analyze, and visualize Google Play Store app data.
 
 ---
 
